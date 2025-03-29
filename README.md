@@ -5,6 +5,12 @@ Help:
 
     guid gtype  -- gtype --help
 
+Supported Guid:
+
+ - ULID
+ - GUID
+ - GUID V7
+
 We can run cli with this instructions:
 
 1) guid gtype --guid-type ulid (Generate a new Ulid identifier)
