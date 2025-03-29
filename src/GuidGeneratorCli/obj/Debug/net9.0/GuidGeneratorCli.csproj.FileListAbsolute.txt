@@ -31,6 +31,7 @@ C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\Microsoft.
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\Ulid.dll
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\ja-JP\Cocona.resources.dll
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\ko-KR\Cocona.resources.dll
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\ja-JP\Cocona.Core.resources.dll
@@ -50,4 +51,3 @@ C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\obj\Debug\net9.0\refint\Gui
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\obj\Debug\net9.0\GuidGeneratorCli.pdb
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\obj\Debug\net9.0\GuidGeneratorCli.genruntimeconfig.cache
 C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\obj\Debug\net9.0\ref\GuidGeneratorCli.dll
-C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\Ulid.dll

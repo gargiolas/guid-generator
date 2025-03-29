@@ -50,6 +50,11 @@
               "version": "[2.2.0, )",
               "versionCentrallyManaged": true
             },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.3, )",
+              "versionCentrallyManaged": true
+            },
             "Ulid": {
               "target": "Package",
               "version": "[1.3.4, )",
@@ -58,6 +63,7 @@
           },
           "centralPackageVersions": {
             "Cocona": "2.2.0",
+            "System.Text.Json": "9.0.3",
             "Ulid": "1.3.4"
           },
           "imports": [

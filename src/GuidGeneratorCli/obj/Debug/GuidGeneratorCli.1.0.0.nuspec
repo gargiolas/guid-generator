@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>GuidGeneratorCli</id>
+    <version>1.0.0</version>
+    <title>GuidGenerator</title>
+    <authors>Giuseppe Argiolas</authors>
+    <icon>gargiolastech-ico.png</icon>
+    <projectUrl>https://github.com/gargiolas/guid-generator</projectUrl>
+    <description>A Cli to generate different types of Guid</description>
+    <tags>guid</tags>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/gargiolas/guid-generator" commit="e1c4c211f3ea8a6df25b7f12d05f659c873262d7" />
+  </metadata>
+  <files>
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\obj\DotnetToolSettings.xml" target="tools\net9.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\GuidGeneratorCli.dll" target="tools\net9.0\any\GuidGeneratorCli.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\GuidGeneratorCli.deps.json" target="tools\net9.0\any\GuidGeneratorCli.deps.json" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\GuidGeneratorCli.runtimeconfig.json" target="tools\net9.0\any\GuidGeneratorCli.runtimeconfig.json" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\GuidGeneratorCli.pdb" target="tools\net9.0\any\GuidGeneratorCli.pdb" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Cocona.dll" target="tools\net9.0\any\Cocona.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Cocona.Core.dll" target="tools\net9.0\any\Cocona.Core.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Configuration.dll" target="tools\net9.0\any\Microsoft.Extensions.Configuration.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll" target="tools\net9.0\any\Microsoft.Extensions.Configuration.Abstractions.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Configuration.Binder.dll" target="tools\net9.0\any\Microsoft.Extensions.Configuration.Binder.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Configuration.CommandLine.dll" target="tools\net9.0\any\Microsoft.Extensions.Configuration.CommandLine.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Configuration.EnvironmentVariables.dll" target="tools\net9.0\any\Microsoft.Extensions.Configuration.EnvironmentVariables.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Configuration.FileExtensions.dll" target="tools\net9.0\any\Microsoft.Extensions.Configuration.FileExtensions.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Configuration.Json.dll" target="tools\net9.0\any\Microsoft.Extensions.Configuration.Json.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Configuration.UserSecrets.dll" target="tools\net9.0\any\Microsoft.Extensions.Configuration.UserSecrets.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.DependencyInjection.dll" target="tools\net9.0\any\Microsoft.Extensions.DependencyInjection.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll" target="tools\net9.0\any\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.FileProviders.Abstractions.dll" target="tools\net9.0\any\Microsoft.Extensions.FileProviders.Abstractions.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.FileProviders.Physical.dll" target="tools\net9.0\any\Microsoft.Extensions.FileProviders.Physical.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.FileSystemGlobbing.dll" target="tools\net9.0\any\Microsoft.Extensions.FileSystemGlobbing.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Hosting.dll" target="tools\net9.0\any\Microsoft.Extensions.Hosting.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Hosting.Abstractions.dll" target="tools\net9.0\any\Microsoft.Extensions.Hosting.Abstractions.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Logging.dll" target="tools\net9.0\any\Microsoft.Extensions.Logging.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Logging.Abstractions.dll" target="tools\net9.0\any\Microsoft.Extensions.Logging.Abstractions.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Logging.Configuration.dll" target="tools\net9.0\any\Microsoft.Extensions.Logging.Configuration.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Logging.Console.dll" target="tools\net9.0\any\Microsoft.Extensions.Logging.Console.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Logging.Debug.dll" target="tools\net9.0\any\Microsoft.Extensions.Logging.Debug.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Logging.EventLog.dll" target="tools\net9.0\any\Microsoft.Extensions.Logging.EventLog.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Logging.EventSource.dll" target="tools\net9.0\any\Microsoft.Extensions.Logging.EventSource.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Options.dll" target="tools\net9.0\any\Microsoft.Extensions.Options.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Options.ConfigurationExtensions.dll" target="tools\net9.0\any\Microsoft.Extensions.Options.ConfigurationExtensions.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Microsoft.Extensions.Primitives.dll" target="tools\net9.0\any\Microsoft.Extensions.Primitives.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\System.Diagnostics.EventLog.dll" target="tools\net9.0\any\System.Diagnostics.EventLog.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\Ulid.dll" target="tools\net9.0\any\Ulid.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\ja-JP\Cocona.resources.dll" target="tools\net9.0\any\ja-JP\Cocona.resources.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\ja-JP\Cocona.Core.resources.dll" target="tools\net9.0\any\ja-JP\Cocona.Core.resources.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\ko-KR\Cocona.resources.dll" target="tools\net9.0\any\ko-KR\Cocona.resources.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\ko-KR\Cocona.Core.resources.dll" target="tools\net9.0\any\ko-KR\Cocona.Core.resources.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\zh-CN\Cocona.Core.resources.dll" target="tools\net9.0\any\zh-CN\Cocona.Core.resources.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll" target="tools\net9.0\any\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\bin\Debug\net9.0\publish\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll" target="tools\net9.0\any\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll" />
+    <file src="C:\Lavoro\GitHub\guid-generator\src\GuidGeneratorCli\gargiolastech-ico.png" target="gargiolastech-ico.png" />
+    <file src="C:\Lavoro\GitHub\guid-generator\README.md" target="README.md" />
+  </files>
+</package>

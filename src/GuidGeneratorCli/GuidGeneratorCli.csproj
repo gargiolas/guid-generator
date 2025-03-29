@@ -18,18 +18,25 @@
         <PackageIcon>gargiolastech-ico.png</PackageIcon>
         <RepositoryUrl>https://github.com/gargiolas/guid-generator</RepositoryUrl>
         <PackageTags>guid</PackageTags>
+
+        <ReadmeFile>../../README.md</ReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Cocona" />
+      <PackageReference Include="System.Text.Json" />
       <PackageReference Include="Ulid" />
     </ItemGroup>
 
     <ItemGroup>
       <None Update="gargiolastech-ico.png">
         <Pack>True</Pack>
-        <PackagePath></PackagePath>
+        <PackagePath/>
       </None>
     </ItemGroup>
 
+    <ItemGroup>
+        <None Include="../../README.md" Pack="true" PackagePath=""/>
+    </ItemGroup>
+    
 </Project>
