@@ -1,6 +1,10 @@
 # guid-generator
 A Cli to generate different types of Guid
 
+Help:
+
+    guid gtype  -- gtype --help
+
 We can run cli with this instructions:
 
 1) guid gtype --guid-type ulid (Generate a new Ulid identifier)

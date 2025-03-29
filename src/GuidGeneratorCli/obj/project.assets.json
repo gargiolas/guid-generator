@@ -1447,7 +1447,7 @@
     "C:\\Users\\giuse\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Lavoro\\GitHub\\guid-generator\\src\\GuidGeneratorCli\\GuidGeneratorCli.csproj",
       "projectName": "GuidGeneratorCli",
@@ -1479,7 +1479,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
