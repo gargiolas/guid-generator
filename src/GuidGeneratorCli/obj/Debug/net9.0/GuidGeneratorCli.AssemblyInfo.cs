@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Giuseppe Argiolas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A Cli to generate different types of Guid")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+492aff9c661f1c4d7221714b78c3296486e7c5f9")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.3.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3+ca0b44c96b7e44faa3e9191798fd47d404d5bdc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuidGeneratorCli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuidGeneratorCli")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.3.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/gargiolas/guid-generator")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.

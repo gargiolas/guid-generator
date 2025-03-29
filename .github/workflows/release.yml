@@ -8,10 +8,10 @@ on:
     branches: [ "main" ]
     tags:
       - 'v*.*.*'  # Trigger solo se il push è un tag con il formato vX.Y.Z
-  pull_request:
-    branches: [ "main" ]
-    tags:
-      - 'v*.*.*'  # Trigger solo se il push è un tag con il formato vX.Y.Z
+  #pull_request:
+  #  branches: [ "main" ]
+  #  tags:
+  #    - 'v*.*.*'  # Trigger solo se il push è un tag con il formato vX.Y.Z
 jobs:
   build:
 
